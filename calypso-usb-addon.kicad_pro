@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "calypso-usb-addon.dsn",
       "step": "calypso-usb-addon.step",
       "vrml": ""
     },
