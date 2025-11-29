@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "calypso-usb-addon.kicad_pro",
+    "filename": "calypso-powerpack-addon.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,8 +466,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
-      "step": "calypso-usb-addon.step",
+      "specctra_dsn": "calypso-powerpack-addon.dsn",
+      "step": "calypso-powerpack-addon.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
